@@ -1,1 +1,1 @@
-# Project - Build a tribute-page
+# Project - Build a tribute page
